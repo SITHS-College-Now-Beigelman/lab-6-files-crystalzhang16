@@ -45,5 +45,10 @@ int main()
     inFile.close(); //closes the files
     outFile.close();
 
+/* 
+Sum of the two integers: 32
+The character after the inputted character is U
+The sentence is: yippeee!
+*/
 return 0;
 }
